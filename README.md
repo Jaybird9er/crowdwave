@@ -17,7 +17,6 @@ It's simple. Merely hold up your phone in front of you and cheer when the screen
 Pro Tip: check out the settings feature to get your camera flash to flash on and off randomly for an even bigger impact.
 
 
-
 Screens:
 
 Splash Screen - image with logo
