@@ -29,5 +29,3 @@ Background with color settings and array of terms for cheering and silence
 Modal for timing meter
 Modal for settings/menu
 Button for settings
-
-test
